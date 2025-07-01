@@ -1,3 +1,6 @@
+#############ESP-32 Dev Board##############
+File -> Preference -> Additional Boards Manager URLs : https://espressif.github.io/arduino-esp32/package_esp32_index.json
+
 ****First run the server.py
 then run the gui.py 
 and then run the (.ino) file ****
