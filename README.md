@@ -7,7 +7,8 @@ and then run the (.ino) file ****
 
 serial monitor and the server will show the message
 
+MUST:
 *****change hostname id in (gui.py)
-change hostname id , ssid, password in (.ino) file******
+change hostname id , ssid, password in (.ino) file*****
 
 
