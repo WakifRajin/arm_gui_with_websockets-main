@@ -1,4 +1,3 @@
-# server.py - Enhanced Version
 import asyncio
 import websockets
 import json
